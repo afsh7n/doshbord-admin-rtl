@@ -52,3 +52,6 @@
 div > i {
     padding: 0 5px;
 }
+.nav-link::before{
+    content: none !important;
+}
