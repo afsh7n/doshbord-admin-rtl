@@ -33,7 +33,7 @@
     direction: rtl;
 }
 
-.content-wrapper {
+#content-wrapper {
     left: -247px !important;
     position: absolute !important;
 }
@@ -45,4 +45,7 @@
 }
 .sidebar .nav.sub-menu .nav-item .nav-link {
     position: inherit;
+}
+#role{
+    color: rgba(235, 16, 16, 0.4);
 }
