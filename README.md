@@ -15,7 +15,6 @@
 ```
 git clone https://github.com/afsh7n/doshbord-admin-rtl.git
 cd doshbord-admin-rtl
-npm i 
 ```
 
 # ScreenShot Project
