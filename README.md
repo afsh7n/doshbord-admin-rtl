@@ -10,6 +10,14 @@
 - Page Typegrapy
 - Page ...
 
+
+## Usage
+```
+git clone https://github.com/afsh7n/doshbord-admin-rtl.git
+cd doshbord-admin-rtl
+npm i 
+```
+
 # ScreenShot Project
 
 [![](https://github.com/afsh7n/admin-rtl/blob/master/Screenshots/Screenshot%20%20(2).png)](https://github.com/afsh7n/admin-rtl/blob/master/Screenshots/Screenshot%20%20(2).png)
